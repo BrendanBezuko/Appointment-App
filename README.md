@@ -5,7 +5,7 @@
 ### Database
 
 1. insure sqlite3 is installed on your system.
-1. Create database `cd backend && qlite3 ./db/main.db < ./db/database.sql`
+1. Create database `cd backend && sqlite3 ./db/main.db < ./db/database.sql`
 
 ### Backend
 
